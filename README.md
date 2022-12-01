@@ -1,4 +1,3 @@
-![logo](https://github.com/gouthamamin/gouthamamin/blob/main/Goutham_Banner.gif)
 <h1 align="center">Hi 👋, I'm Goutham Amin</h1>
 <h3 align="center">A Passionate Software Engineer from Mangalore</h3>
 

@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **gouthamamin@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amingoutham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amingoutham" height="30" width="40" /></a>

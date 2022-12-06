@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently Studying at **Mangalore Institute of Technology & Engineering**
 
-- 🌱 I’m currently learning **JavaScript and Nodejs**
-
 - 💬 Ask me about [myself](https://gouthamamin.netlify.app/)
 
 - 📫 How to reach me **gouthamamin@gmail.com**

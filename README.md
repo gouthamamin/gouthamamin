@@ -3,7 +3,7 @@
   
 - 🔭  Studied at **Mangalore Institute of Technology & Engineering**
 
-- 💬 Ask me about [myself](https://gouthamamin.netlify.app/)
+- 💬 Ask me about [myself](https://nextjs-portfolio-gouthamamins-projects.vercel.app/)
 
 - 📫 How to reach me **gouthamamin@gmail.com**
 

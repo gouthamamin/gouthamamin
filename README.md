@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm <strong>Goutham Amin</strong></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=250&color=000000&width=435&lines=Software+Engineer;Web+Developer;Game+Developer;Tech+Enthusiast" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=250&color=000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
+ </a>
 </p>
+
 
 ---
 

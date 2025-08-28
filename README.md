@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm <strong>Goutham Amin</strong></h1>
+<h1 align="center"><i>Hi</i>👋,<i> I'm <strong>Goutham Amin</strong> </i></h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=250&color=000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=250&color=6A7282&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Developer;Game+Developer;Tech+Enthusiast" alt="Typing SVG" />
  </a>
 </p>
 
@@ -37,6 +37,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
 ![React Three Fiber](https://img.shields.io/badge/React--Three--Fiber-000000?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Phaser](https://img.shields.io/badge/Phaser-7D7DC4?logo=phaser&logoColor=white&style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 ## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -60,7 +61,6 @@
 ## 📌 Other Interests
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 
 ---

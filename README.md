@@ -30,6 +30,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+
 
 ## 🎮 Game Development
 ![PlayCanvas](https://img.shields.io/badge/PlayCanvas-E05F2C?logo=playcanvas&logoColor=white&style=for-the-badge)

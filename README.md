@@ -30,7 +30,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-F7DF1E?logo=framer&logoColor=black&style=for-the-badge)
-
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)

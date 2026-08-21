@@ -45,6 +45,7 @@ I am always interested in learning new technologies, exploring different areas o
 ![React Three Fiber](https://img.shields.io/badge/React--Three--Fiber-000000?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Phaser](https://img.shields.io/badge/Phaser-7D7DC4?logo=phaser&logoColor=white&style=for-the-badge)
 ![Pixi.js](https://img.shields.io/badge/pixi.js-E72264?logo=pixi&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
